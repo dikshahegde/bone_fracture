@@ -1,0 +1,6 @@
+train: C:\Users\HP\AR\yolov5\closed_simple_fracture_dataset\train\images
+val: C:\Users\HP\AR\yolov5\closed_simple_fracture_dataset\valid\images
+test: C:\Users\HP\AR\yolov5\closed_simple_fracture_dataset\test\images
+
+nc: 1
+names: ['closed-simple-fracture']

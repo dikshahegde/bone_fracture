@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 17
+names: ['avulsion-fracture', 'closed-simple-fracture', 'comminuted-fracture', 'compression-crush-fracture', 'fracture-dislocation', 'greenstick-fracture', 'hairline-fracture', 'impacted-fracture', 'intra-articular-fracture', 'longitudinal-fracture', 'oblique-fracture', 'open-compound-fracture', 'pathological-fracture', 'segmental-fracture', 'spiral-fracture', 'stress-fracture', 'transverse-fracture']
+
+roboflow:
+  workspace: labelling-ckpec
+  project: bone-fracture-1wc2r
+  version: 11
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/labelling-ckpec/bone-fracture-1wc2r/dataset/11

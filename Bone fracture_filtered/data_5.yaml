@@ -1,0 +1,7 @@
+
+train: C:\Users\HP\AR\Bone fracture_filtered\train\images
+val: C:\Users\HP\AR\Bone fracture_filtered\valid\images
+test: C:\Users\HP\AR\Bone fracture_filtered\test\images
+
+nc: 5
+names: [0, 1, 2, 3, 4]

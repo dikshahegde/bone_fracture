@@ -1,0 +1,6 @@
+train: C:/Users/HP/AR/Bone fracture_filtered/train/images
+val: C:/Users/HP/AR/Bone fracture_filtered/valid/images
+
+test: C:/Users/HP/AR/Bone fracture_filtered/test/images
+nc: 5
+names: ['avulsion-fracture', 'closed-simple-fracture', 'compression-crush-fracture', 'greenstick-fracture', 'longitudinal-fracture']

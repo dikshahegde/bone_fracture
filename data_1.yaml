@@ -1,0 +1,7 @@
+
+train: C:\Users\HP\AR\Bone fracture.v11i.yolov8_split\train\images
+val: C:\Users\HP\AR\Bone fracture.v11i.yolov8_split\valid\images
+
+
+nc: 1
+names: ['closed-simple-fracture']
